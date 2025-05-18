@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Features
+### 🚀 Features 
 
 - 🔊 Voice recognition and response (via `speech_recognition` and `pyttsx3`)
 - 🕓 Tells current time and date
